@@ -1,0 +1,4 @@
+index.php
+*.log
+*.bak
+config.php
